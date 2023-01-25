@@ -17,4 +17,10 @@
   padding: 16px 4px;
   display: flex;
   flex-direction: column;
+  color: #3f403f;
+}
+
+.tasklist .btn-increment {
+  display: flex;
+  justify-content: center;
 }
